@@ -1,0 +1,100 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Hukum",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqK3_nPn_8UHFtyOFgDtrx1d_DfmngcZ3qbTLHZq7vbIrrllSx",
+      "url": " https://www.youtube.com/embed/1F3hm6MfR1k"
+    },
+    {
+      "id": "2",
+      "caption": "Naa Ready",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKoVOBgpK2HB9Zyc2eL2Gwjo8YZfaF0lrg7m7vleWvztGQFBgH",
+      "url": " https://www.youtube.com/embed/szvt1vD0Uug"
+    },
+    {
+      "id": "3",
+      "caption": "Kotha Raja",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXxtuLoBle6GyZU-01jhso4dodUI0nhNpVPc5hAjQXyH8Un1Cf",
+      "url": " https://www.youtube.com/embed/X-MZXIXPwFw"
+    },
+    {
+      "id": "4",
+      "caption": "Chaleya",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgq-Z09w3VchpLc9LVhG_R6vNnhgeaPX7pcouxWXUAELFWdPkp",
+      "url": " https://www.youtube.com/embed/VAdGW7QDJiU"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "entertainment",
+      "allvideos": []
+    },
+    {
+      "id": "2",
+      "name": "food",
+      "allVideos": []
+    },
+    {
+      "id": "3",
+      "name": "sports",
+      "allVideos": []
+    },
+    {
+      "id": "4",
+      "name": "Film",
+      "allVideos": []
+    },
+    {
+      "id": "5",
+      "name": "fashion",
+      "allVideos": []
+    },
+    {
+      "id": "6",
+      "name": "News",
+      "allVideos": []
+    },
+    {
+      "id": "11",
+      "name": "ANANDU P",
+      "allVideos": []
+    },
+    {
+      "id": "12",
+      "name": "ANANDU P",
+      "allVideos": []
+    },
+    {
+      "id": "22",
+      "name": "ssss",
+      "allVideos": []
+    },
+    {
+      "id": "23",
+      "name": "ssss",
+      "allVideos": []
+    },
+    {
+      "id": "90",
+      "name": "sss",
+      "allVideos": []
+    },
+    {
+      "id": "55",
+      "name": "sss",
+      "allVideos": []
+    },
+    {
+      "id": "110",
+      "name": "ssss",
+      "allVideos": []
+    }
+  ],
+"watchhistory":[{
+  "id": 1,
+    "cardName": "Best of Sushin Shyam",
+    "url": " https://www.youtube.com/embed/ccpVpcP8m44",
+    "date": "14-08-2018"}]
+}
